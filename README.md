@@ -18,7 +18,7 @@ Student-Task-Manager
 
 ----
 # **Team Members**
-. Khadija Mustafa
-. Rumaan Ahmad
+- Khadija Mustafa
+- Rumaan Ahmad
 
 
