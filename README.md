@@ -16,7 +16,6 @@ Student-Task-Manager
   2. style.css
   3. script.js
 
-
 ----
 # **Team Members**
 . Khadija Mustafa
