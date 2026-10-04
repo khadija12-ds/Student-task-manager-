@@ -1,25 +1,24 @@
-#Student Task Manager
+# **Student Task Manager**
 
 A simple web-based Student Task Manager using html,css,javascript.
 
-##Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
 
-##Project Structure
+## Project Structure
 
-Student-Task-Manager/
-│
-├── index.html
-├── style.css
-└── script.js
+Student-Task-Manager
+  1. index.html
+  2. style.css
+  3.script.js
 
 
 ----
-#Team Members
+# **Team Members**
 . Khadija Mustafa
 . Rumaan Ahmad
 
