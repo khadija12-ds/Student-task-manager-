@@ -1,6 +1,6 @@
 # **Student Task Manager**
 
-A simple web-based Student Task Manager using html,css,javascript.
+A simple web-based Student Task Manager using html, css, javascript.
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@ A simple web-based Student Task Manager using html,css,javascript.
 Student-Task-Manager
   1. index.html
   2. style.css
-  3.script.js
+  3. script.js
 
 
 ----
